@@ -1,4 +1,4 @@
-# Analyzing-Customer-Churn-in-Power-BI
+![Screenshot 2024-09-25 100515](https://github.com/user-attachments/assets/6f7f7f54-11c4-4eb6-b6d1-ad46f37db228)# Analyzing-Customer-Churn-in-Power-BI
 
 ## Overview
 
@@ -55,7 +55,11 @@ Understanding customer churn provides critical insights into customer behavior, 
 
 3. **Visualizing Your Analysis**
    - **Overview Page:** Create a dashboard summarizing key findings.
+   - ![Screenshot 2024-09-25 100515](https://github.com/user-attachments/assets/3b5fd3e0-850a-4410-a191-0feaae814188)
    - **Age Brackets & Groups:** Visualize churn trends by age.
    - **Payment Method and Contract Category:** Analyze the relationship between payment methods and churn.
+   - ![Screenshot 2024-09-25 100551](https://github.com/user-attachments/assets/e8904745-fb08-471d-b587-86509acc23ce)
    - **International and Data Plans:** Investigate the effect of data plans on customer retention.
    - **Additional Insights:** Present further discoveries from the analysis.
+   - ![Screenshot 2024-09-25 100620](https://github.com/user-attachments/assets/96de5f11-2eac-4982-bdd9-d26652fa78c5)
+
