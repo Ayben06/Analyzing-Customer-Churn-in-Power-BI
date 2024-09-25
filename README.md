@@ -1,4 +1,4 @@
-![Screenshot 2024-09-25 100515](https://github.com/user-attachments/assets/6f7f7f54-11c4-4eb6-b6d1-ad46f37db228)# Analyzing-Customer-Churn-in-Power-BI
+# Analyzing-Customer-Churn-in-Power-BI
 
 ## Overview
 
